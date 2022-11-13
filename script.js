@@ -5,7 +5,7 @@ let nome = "Lucas"
 console.log(nome)
 console.log(idade)
 let logado = true
-let lista = ["ovo", "leite", "polvilho", 20] /*array*/
+let lista = ["ovo", "massa", "polvilho", 20] /*array*/
 let nomeCompleto = { nome:"Lucas", idade: 29 } 
 
 console.log(typeof nome)
@@ -17,3 +17,7 @@ let precobolo = 19.99
 console.log (precobolo)
 let cidade = "São Paulo"
 console.log (cidade)
+
+let name = "Lucas"
+name = "Joao"
+console.log(name)//A variavel é alterada
