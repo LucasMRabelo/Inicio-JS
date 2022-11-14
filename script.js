@@ -20,4 +20,4 @@ console.log (cidade)
 
 let name = "Lucas"
 name = "Joao"
-console.log(name)//A variavel é alterada
+console.log(name)//A variavel é alterada.
