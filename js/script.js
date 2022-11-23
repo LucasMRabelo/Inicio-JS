@@ -1,3 +1,5 @@
+alert('teste')
+
 console.log("Olá Mundo")
 console.log("hi")
 let idade = 29
