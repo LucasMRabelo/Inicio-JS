@@ -46,3 +46,19 @@ total= (valor1 != valor2); //true or false (===)usado para valor e tipo
 // != diferente
 document.getElementById("texto").innerHTML=total;
 
+//Ternario
+var idade, eleitor;
+idade=17;
+eleitor= (idade<18) ? " Não eleitor":" Sim, eleitor";
+
+alert('A resposta é :' + eleitor+' a idade dele é de :'+idade)
+
+//Operadores logico
+resultado = (idade > 60 && idade < 70);
+alert(resultado);
+
+resultado1= (idade == 15 || idade == 17);// ou=||
+alert(resultado1)
+
+// !=negação
+
