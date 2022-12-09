@@ -6,7 +6,7 @@ function realParaDolar (real, cotacaoDolar) {
     return real * cotacaoDolar;
 }
 
-var valorReal= 7.90;
+var valorReal= 7.80;
 var cotacao= 5.09;
 
 var total = realParaDolar (valorReal, cotacao)
